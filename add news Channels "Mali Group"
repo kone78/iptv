@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ortm-1-ml.png" group-title="MALI",ORTM1
+https://mmsiptv.com/live/ortm1/playlist.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/africable_tv.png" group-title="MALI",AFRICABLE 
+#EXTINF:0,https://mmsiptv.com/live/africable/playlist.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tm1-tv-ml.png" group-title="MALI",TM1
+https://stream-02.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTZMtNyQwwGA8vRwfdNaPIo)/dm/3/x7v072x/d/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
